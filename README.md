@@ -1,2 +1,2 @@
 # onlineexam
-a system for exam online
+一个在线刷题系统
